@@ -9,6 +9,7 @@ const LEAGUE_ID = 501;
 // 2023/4, 2022/3, 2021/2
 const SEASONS_IDS = [21787, 19735, 18369];
 const CURR_SEASON_ID = 19735;
+const PREV_SEASON_IDS = [17141, 18369]
 
 const CLEAN_SHEET_ID = 194,
   GOALS_CONCEDED_ID = 88,
@@ -66,12 +67,13 @@ const fetchData = async (path) => {
 
 const getTeamsWithStats = async () => {
   const standingsArr = await fetchData(`standings/seasons/${CURR_SEASON_ID}?filters=standingLeagues:${LEAGUE_ID}`)
-
+  
   const teamStatsMap = new Map();
   await Promise.all(
     standingsArr.map(async (standing) => {
+      
       const data = await fetchData(
-        `teams/${standing.participant_id}?include=statistics.details&filters=teamStatisticSeasons:${CURR_SEASON_ID}`
+        `teams/${standing.participant_id}?include=statistics.details&filters=teamStatisticSeasons:${PREV_SEASON_IDS[0]}`
       );
 
       let statistics = []
