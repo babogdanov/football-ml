@@ -1,5 +1,5 @@
 import { readFile, writeFile } from "fs/promises";
-
+import { exit } from "process";
 // 1. get standings for all relevant teams
 // 2. get all matches between relevant teams
 // 3. one row of data should contain details of a match, as well as the standings stats for one team
@@ -9,7 +9,7 @@ const LEAGUE_ID = 501;
 // 2023/4, 2022/3, 2021/2
 const SEASONS_IDS = [21787, 19735, 18369];
 const CURR_SEASON_ID = 19735;
-const PREV_SEASON_IDS = [17141, 18369]
+const PREV_SEASON_IDS = [17141, 18369];
 
 const CLEAN_SHEET_ID = 194,
   GOALS_CONCEDED_ID = 88,
@@ -18,12 +18,31 @@ const CLEAN_SHEET_ID = 194,
   YELLOW_CARDS_ID = 84,
   RED_CARDS_ID = 83;
 
-const appendIndexToObjectFields = (obj, prefix) => {
-    return Object.assign(
-        {},
-        ...Object.keys(obj).map(key => ({[prefix+key]: obj[key]}))
-      )
-}
+const generateDiffStats = (
+  statsOne,
+  statsTwo,
+  fieldsToSkip = ["id", "name"]
+) => {
+  const keySet = new Set(
+    Object.keys(statsOne).filter(
+      (key) => statsTwo[key] && !fieldsToSkip.includes(key)
+    )
+  );
+
+  const res = Object.assign(
+    {},
+    ...Array.from(keySet.values()).map((key) => ({
+      [key]: statsOne[key] - statsTwo[key],
+    }))
+  );
+
+  fieldsToSkip.forEach((key) => {
+    res[`team_one_${key}`] = statsOne[key];
+    res[`team_two_${key}`] = statsTwo[key];
+  });
+  
+  return res;
+};
 
 const fetchData = async (path) => {
   const resJson = await fetch(`${BASE_PATH}/${path}`, {
@@ -66,23 +85,23 @@ const fetchData = async (path) => {
 }; */
 
 const getTeamsWithStats = async () => {
-  const standingsArr = await fetchData(`standings/seasons/${CURR_SEASON_ID}?filters=standingLeagues:${LEAGUE_ID}`)
-  
+  const standingsArr = await fetchData(
+    `standings/seasons/${CURR_SEASON_ID}?filters=standingLeagues:${LEAGUE_ID}`
+  );
+
   const teamStatsMap = new Map();
   await Promise.all(
     standingsArr.map(async (standing) => {
-      
       const data = await fetchData(
         `teams/${standing.participant_id}?include=statistics.details&filters=teamStatisticSeasons:${PREV_SEASON_IDS[0]}`
       );
 
-      let statistics = []
+      let statistics = [];
       try {
-          statistics = data.statistics[0].details;
-
+        statistics = data.statistics[0].details;
       } catch (e) {
-        console.error(e)
-        console.log(data, standing.participant_id)
+        console.error(e);
+        console.log(data, standing.participant_id);
       }
       const cleanSheetPercentage = statistics.find(
         (stat) => stat.type_id === CLEAN_SHEET_ID
@@ -129,34 +148,40 @@ const getFixtures = async () => {
     `fixtures?include=scores&filters=fixtureLeagues:${LEAGUE_ID};fixtureSeasons:${CURR_SEASON_ID}`
   );
 
-  const trainingData = fixtures.map(fixture => {
-    const score = fixture.scores.filter(score => score.description === 'CURRENT');
-    if (!score || score.length === 0) {
+  const trainingData = fixtures
+    .map((fixture) => {
+      const score = fixture.scores.filter(
+        (score) => score.description === "CURRENT"
+      );
+      if (!score || score.length === 0) {
         return null;
-    }
-    const [teamOneData, teamTwoData] = score;
-    const teamOneStats = teamStatsMap.get(teamOneData.participant_id)
-    const teamTwoStats = teamStatsMap.get(teamTwoData.participant_id)
+      }
+      const [teamOneData, teamTwoData] = score;
+      const teamOneStats = teamStatsMap.get(teamOneData.participant_id);
+      const teamTwoStats = teamStatsMap.get(teamTwoData.participant_id);
 
-    let matchOutcome;
-    if (teamOneData.score.goals > teamTwoData.score.goals) {
-        matchOutcome = 'WIN'
-    } else if (teamOneData.score.goals < teamTwoData.score.goals) {
-        matchOutcome = 'LOSS'
-    } else {
-        matchOutcome = 'DRAW'
-    }
+      let matchOutcome;
+      if (teamOneData.score.goals > teamTwoData.score.goals) {
+        matchOutcome = 2;
+      } else if (teamOneData.score.goals < teamTwoData.score.goals) {
+        matchOutcome = 0;
+      } else {
+        matchOutcome = 1;
+      }
 
-    return {
-        ...appendIndexToObjectFields(teamOneStats,'team_one_'),
-        ...appendIndexToObjectFields(teamTwoStats, 'team_two_'),
+      return {
+        ...generateDiffStats(teamOneStats, teamTwoStats),
         matchOutcome,
-    }
-  }).filter(data => !!data)
+      };
+    })
+    .filter((data) => !!data);
 
-  await writeFile('./out/training_data/sample-2022-2023.json', JSON.stringify(trainingData));
+  await writeFile(
+    "./out/training_data/diff-2022-2023.json",
+    JSON.stringify(trainingData)
+  );
   return trainingData;
 };
 
 const fixtures = await getFixtures();
-console.log(fixtures)
+console.log(fixtures);
