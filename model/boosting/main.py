@@ -11,7 +11,7 @@ xgb.config_context(
 )
 
 MAX_ACCURACY = 0.719
-df = pd.read_json('../data-generation/out/training_data/diff-2022-2023.json')
+df = pd.read_json('../../data-generation/out/training_data/diff-2022-2023.json')
 
 features, target = df.drop(['matchOutcome', 'team_one_id', 'team_two_id', 'team_one_name', 'team_two_name'], axis=1), df[[
     'matchOutcome']]
@@ -28,16 +28,17 @@ features_train, features_test, target_train, target_test = train_test_split(
 # print(df.info())
 # Creating an XGBoost classifier
 model = xgb.XGBClassifier(
-
+    n_estimators=10000
+    #max_depth=3
     #enable_categorical=True,
     #eval_metric='mlogloss',
     #use_label_encoder=False,
 )
 
 # Training the model on the training data
-#model.fit(features_train, target_train)
+model.fit(features_train, target_train)
 
-model.load_model('./best_xgb_model.json')
+#model.load_model('./best_xgb_model.json')
 # Making predictions on the test set
 predictions = model.predict(features_test)
 
@@ -45,14 +46,16 @@ predictions = model.predict(features_test)
 accuracy = accuracy_score(target_test, predictions)
 
 if accuracy > MAX_ACCURACY:
-    model.save_model('best_xgb_model.json')
+    model.save_model('xgb_model-' + str(accuracy) + '.json')
 
 print("Accuracy:", accuracy)
 print("\nClassification Report:")
 print(classification_report(target_test, predictions,
       target_names=['Loss', 'Draw', 'Win']))
 
-plot_tree(model)
+#plot_tree(model)
+#plot_tree(model, num_trees=1)
+
 plot_importance(model)
 pyplot.show()
 
