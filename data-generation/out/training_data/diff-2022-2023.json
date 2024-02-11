@@ -1,7 +1,7 @@
 [
   {
     "rank": 5,
-    "points": -37,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.3099999999999998,
     "goalsConceded": 1.0799999999999998,
@@ -14,23 +14,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -8,
-    "points": 27,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -2.16,
-    "redCards": -0.13,
-    "team_one_id": 314,
-    "team_two_id": 246,
-    "team_one_name": "Hearts",
-    "team_two_name": "Ross County",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 1,
-    "points": 0,
+    "rank": 2,
+    "points": -8,
     "cleanSheetPercentage": -18.42,
     "goals": 0.2899999999999999,
     "goalsConceded": 0.09999999999999987,
@@ -44,8 +29,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 4,
-    "points": -11,
+    "rank": 2,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.31000000000000005,
     "goalsConceded": 0.2899999999999999,
@@ -59,8 +44,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 7,
+    "rank": 1,
+    "points": 0,
     "cleanSheetPercentage": -2.629999999999999,
     "goals": -0.06000000000000005,
     "goalsConceded": -0.27,
@@ -75,7 +60,7 @@
   },
   {
     "rank": -2,
-    "points": 46,
+    "points": 21,
     "cleanSheetPercentage": 5.259999999999998,
     "goals": 1.0999999999999999,
     "goalsConceded": -0.24,
@@ -89,8 +74,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 9,
+    "rank": 2,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.020000000000000018,
     "goalsConceded": -0.17999999999999994,
@@ -104,8 +89,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -11,
+    "rank": -3,
+    "points": -1,
     "cleanSheetPercentage": 5.260000000000002,
     "goals": -0.27000000000000013,
     "goalsConceded": -0.09999999999999987,
@@ -119,23 +104,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 10,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.55,
-    "redCards": -0.03,
-    "team_one_id": 314,
-    "team_two_id": 66,
-    "team_one_name": "Hearts",
-    "team_two_name": "Hibernian",
-    "matchOutcome": 1
-  },
-  {
-    "rank": -1,
-    "points": 4,
+    "rank": -4,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.24,
@@ -149,8 +119,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -9,
-    "points": 48,
+    "rank": -4,
+    "points": 66,
     "cleanSheetPercentage": 52.63,
     "goals": 1.29,
     "goalsConceded": -1.0799999999999998,
@@ -164,8 +134,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 11,
-    "points": -72,
+    "rank": 2,
+    "points": -38,
     "cleanSheetPercentage": -31.58,
     "goals": -1.13,
     "goalsConceded": 0.98,
@@ -179,8 +149,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -5,
-    "points": 16,
+    "rank": 3,
+    "points": 11,
     "cleanSheetPercentage": 13.160000000000004,
     "goals": -0.08000000000000007,
     "goalsConceded": -0.44999999999999996,
@@ -194,17 +164,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 6,
-    "points": -23,
-    "team_one_id": 282,
-    "team_two_id": 314,
-    "team_one_name": "Dundee United",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 10,
-    "points": -68,
+    "rank": 3,
+    "points": -41,
     "cleanSheetPercentage": -34.21,
     "goals": -0.9199999999999999,
     "goalsConceded": 0.6599999999999999,
@@ -218,8 +179,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 2,
+    "rank": -3,
+    "points": 18,
     "cleanSheetPercentage": 10.52,
     "goals": 0.1499999999999999,
     "goalsConceded": -0.4999999999999999,
@@ -233,8 +194,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -7,
-    "points": 46,
+    "rank": -4,
+    "points": 57,
     "cleanSheetPercentage": 39.47,
     "goals": 1.47,
     "goalsConceded": -0.8699999999999999,
@@ -248,8 +209,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -6,
-    "points": 17,
+    "rank": -2,
+    "points": 6,
     "cleanSheetPercentage": 10.529999999999998,
     "goals": 0.04999999999999993,
     "goalsConceded": -0.56,
@@ -263,17 +224,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 45,
-    "team_one_id": 53,
-    "team_two_id": 314,
-    "team_one_name": "Celtic",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -4,
-    "points": 13,
+    "rank": -1,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.13,
     "goalsConceded": -0.14000000000000012,
@@ -287,8 +239,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -35,
+    "rank": 2,
+    "points": -39,
     "cleanSheetPercentage": -28.950000000000003,
     "goals": -1.16,
     "goalsConceded": 0.5800000000000001,
@@ -301,8 +253,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 1,
-    "points": -5,
+    "rank": -5,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": -0.08000000000000007,
     "goalsConceded": 0.030000000000000027,
@@ -316,8 +268,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 1,
-    "points": -4,
+    "rank": -1,
+    "points": 3,
     "cleanSheetPercentage": 2.6300000000000026,
     "goals": -0.20999999999999985,
     "goalsConceded": 0.32000000000000006,
@@ -331,8 +283,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -20,
+    "rank": 1,
+    "points": -11,
     "cleanSheetPercentage": -15.790000000000003,
     "goals": 0,
     "goalsConceded": 0.20999999999999996,
@@ -346,7 +298,7 @@
     "matchOutcome": 0
   },
   {
-    "rank": -4,
+    "rank": -2,
     "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.16000000000000014,
@@ -361,8 +313,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 9,
-    "points": -68,
+    "rank": 1,
+    "points": -33,
     "cleanSheetPercentage": -15.79,
     "goals": -1.21,
     "goalsConceded": 0.56,
@@ -376,23 +328,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -5,
-    "points": 21,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.63,
-    "redCards": -0.13,
-    "team_one_id": 314,
-    "team_two_id": 734,
-    "team_one_name": "Hearts",
-    "team_two_name": "St. Johnstone",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -3,
-    "points": 6,
+    "rank": -4,
+    "points": 9,
     "cleanSheetPercentage": 15.79,
     "goals": -0.09999999999999987,
     "goalsConceded": 0.030000000000000027,
@@ -406,8 +343,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -10,
-    "points": 52,
+    "rank": -3,
+    "points": 63,
     "cleanSheetPercentage": 50,
     "goals": 1.5,
     "goalsConceded": -1.4,
@@ -421,8 +358,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 1,
-    "points": 0,
+    "rank": -1,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.29000000000000004,
     "goalsConceded": 0.2599999999999999,
@@ -436,8 +373,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 20,
+    "rank": 1,
+    "points": -25,
     "cleanSheetPercentage": -18.42,
     "goals": -0.3700000000000001,
     "goalsConceded": 0.42,
@@ -450,8 +387,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -6,
-    "points": 13,
+    "rank": -2,
+    "points": 27,
     "cleanSheetPercentage": 23.68,
     "goals": 0.13000000000000012,
     "goalsConceded": -0.4999999999999999,
@@ -465,17 +402,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -12,
-    "team_one_id": 258,
-    "team_two_id": 314,
-    "team_one_name": "Livingston",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
     "rank": -2,
-    "points": 6,
+    "points": 1,
     "cleanSheetPercentage": -2.6300000000000026,
     "goals": 0.19000000000000006,
     "goalsConceded": 0.1299999999999999,
@@ -489,8 +417,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -9,
-    "points": 26,
+    "rank": 0,
+    "points": 17,
     "cleanSheetPercentage": 26.32,
     "goals": 0.029999999999999916,
     "goalsConceded": -0.74,
@@ -505,7 +433,7 @@
   },
   {
     "rank": 3,
-    "points": -11,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.020000000000000018,
     "goalsConceded": 0.030000000000000027,
@@ -519,8 +447,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 26,
+    "rank": -3,
+    "points": 46,
     "cleanSheetPercentage": 23.68,
     "goals": 1.47,
     "goalsConceded": -0.6599999999999999,
@@ -534,8 +462,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -57,
+    "rank": 4,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -0.9399999999999997,
     "goalsConceded": 0.6599999999999999,
@@ -549,8 +477,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 5,
-    "points": -13,
+    "rank": 0,
+    "points": -19,
     "cleanSheetPercentage": -5.259999999999998,
     "goals": -0.42000000000000004,
     "goalsConceded": 0.4,
@@ -564,17 +492,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 2,
-    "points": -10,
-    "team_one_id": 496,
-    "team_two_id": 314,
-    "team_one_name": "St. Mirren",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 2,
-    "points": -2,
+    "rank": 0,
+    "points": -9,
     "cleanSheetPercentage": -13.16,
     "goals": 0.17999999999999994,
     "goalsConceded": 0.20999999999999996,
@@ -588,8 +507,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 4,
-    "points": -10,
+    "rank": 3,
+    "points": -6,
     "cleanSheetPercentage": -13.159999999999997,
     "goals": -0.10999999999999999,
     "goalsConceded": 0.29000000000000004,
@@ -603,8 +522,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 2,
-    "points": -9,
+    "rank": -1,
+    "points": 7,
     "cleanSheetPercentage": -5.270000000000003,
     "goals": 0.31000000000000005,
     "goalsConceded": -0.07999999999999996,
@@ -618,8 +537,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -4,
-    "points": 11,
+    "rank": 1,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.019999999999999796,
     "goalsConceded": 0,
@@ -633,17 +552,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 4,
-    "points": -17,
-    "team_one_id": 309,
-    "team_two_id": 314,
-    "team_one_name": "Motherwell",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 8,
-    "points": -48,
+    "rank": 2,
+    "points": -58,
     "cleanSheetPercentage": -34.21,
     "goals": -1.58,
     "goalsConceded": 0.98,
@@ -656,7 +566,7 @@
     "matchOutcome": 0
   },
   {
-    "rank": 3,
+    "rank": -1,
     "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.029999999999999916,
@@ -671,8 +581,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -5,
-    "points": 55,
+    "rank": 0,
+    "points": 32,
     "cleanSheetPercentage": 21.05,
     "goals": 1.0799999999999998,
     "goalsConceded": -0.41999999999999993,
@@ -686,8 +596,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -8,
-    "points": 22,
+    "rank": -1,
+    "points": 20,
     "cleanSheetPercentage": 28.950000000000003,
     "goals": -0.17999999999999994,
     "goalsConceded": -0.41999999999999993,
@@ -701,8 +611,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 7,
-    "points": -62,
+    "rank": -1,
+    "points": -32,
     "cleanSheetPercentage": -18.42,
     "goals": -1.0199999999999998,
     "goalsConceded": 0.69,
@@ -716,8 +626,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 2,
+    "rank": 2,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.1100000000000001,
@@ -731,17 +641,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -2,
-    "points": 25,
-    "team_one_id": 62,
-    "team_two_id": 314,
-    "team_one_name": "Rangers",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 7,
-    "points": -17,
+    "rank": 1,
+    "points": -24,
     "cleanSheetPercentage": -21.049999999999997,
     "goals": -0.33999999999999997,
     "goalsConceded": 0.82,
@@ -755,8 +656,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": -2,
+    "rank": 4,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": 0.14000000000000012,
     "goalsConceded": 0.24,
@@ -770,8 +671,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 7,
-    "points": -22,
+    "rank": -1,
+    "points": -12,
     "cleanSheetPercentage": -10.530000000000001,
     "goals": -0.10999999999999999,
     "goalsConceded": 0.32000000000000006,
@@ -785,8 +686,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -7,
+    "rank": -2,
+    "points": -18,
     "cleanSheetPercentage": -7.890000000000001,
     "goals": -0.22999999999999998,
     "goalsConceded": 0.5299999999999999,
@@ -800,23 +701,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -7,
-    "points": 23,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.66,
-    "redCards": -0.16,
-    "team_one_id": 314,
-    "team_two_id": 180,
-    "team_one_name": "Hearts",
-    "team_two_name": "Kilmarnock",
-    "matchOutcome": 1
-  },
-  {
-    "rank": 5,
-    "points": -15,
+    "rank": -2,
+    "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.19000000000000006,
     "goalsConceded": 0.32000000000000006,
@@ -830,8 +716,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 4,
-    "points": -35,
+    "rank": 1,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.45,
     "goalsConceded": 0.8399999999999999,
@@ -844,8 +730,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 8,
-    "points": -66,
+    "rank": 3,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.44999999999999996,
@@ -860,16 +746,7 @@
   },
   {
     "rank": -1,
-    "points": -1,
-    "team_one_id": 273,
-    "team_two_id": 314,
-    "team_one_name": "Aberdeen",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -4,
-    "points": 55,
+    "points": 14,
     "cleanSheetPercentage": 10.530000000000001,
     "goals": 0.7899999999999998,
     "goalsConceded": -0.16000000000000003,
@@ -883,8 +760,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -2,
-    "points": 9,
+    "rank": 1,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": 0.16000000000000014,
     "goalsConceded": 0.20999999999999996,
@@ -898,8 +775,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -42,
+    "rank": 0,
+    "points": -57,
     "cleanSheetPercentage": -36.84,
     "goals": -1.39,
     "goalsConceded": 1.1099999999999999,
@@ -912,8 +789,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 2,
-    "points": -4,
+    "rank": 1,
+    "points": -5,
     "cleanSheetPercentage": -15.79,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.41999999999999993,
@@ -927,8 +804,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -5,
-    "points": 13,
+    "rank": -3,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.15999999999999992,
     "goalsConceded": -0.24,
@@ -942,23 +819,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 3,
-    "points": -45,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -0.89,
-    "redCards": -0.08,
-    "team_one_id": 314,
-    "team_two_id": 53,
-    "team_one_name": "Hearts",
-    "team_two_name": "Celtic",
-    "matchOutcome": 0
-  },
-  {
-    "rank": -4,
-    "points": 11,
+    "rank": -2,
+    "points": 18,
     "cleanSheetPercentage": 10.52,
     "goals": 0.31000000000000005,
     "goalsConceded": -0.2899999999999999,
@@ -972,8 +834,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 4,
+    "rank": 1,
+    "points": -3,
     "cleanSheetPercentage": -2.6300000000000026,
     "goals": 0.20999999999999985,
     "goalsConceded": -0.32000000000000006,
@@ -987,8 +849,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 5,
-    "points": -16,
+    "rank": -3,
+    "points": -11,
     "cleanSheetPercentage": -13.160000000000004,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.44999999999999996,
@@ -1003,7 +865,7 @@
   },
   {
     "rank": -5,
-    "points": 37,
+    "points": 57,
     "cleanSheetPercentage": 39.47,
     "goals": 1.3099999999999998,
     "goalsConceded": -1.0799999999999998,
@@ -1017,8 +879,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -4,
-    "points": 13,
+    "rank": -1,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.13,
     "goalsConceded": -0.14000000000000012,
@@ -1033,7 +895,7 @@
   },
   {
     "rank": -2,
-    "points": 6,
+    "points": 1,
     "cleanSheetPercentage": -2.6300000000000026,
     "goals": 0.19000000000000006,
     "goalsConceded": 0.1299999999999999,
@@ -1047,8 +909,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 0,
+    "rank": 1,
+    "points": 18,
     "cleanSheetPercentage": 10.52,
     "goals": 0.29000000000000004,
     "goalsConceded": -0.2599999999999999,
@@ -1062,8 +924,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -57,
+    "rank": 4,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -0.9399999999999997,
     "goalsConceded": 0.6599999999999999,
@@ -1077,8 +939,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 26,
+    "rank": -3,
+    "points": 46,
     "cleanSheetPercentage": 23.68,
     "goals": 1.47,
     "goalsConceded": -0.6599999999999999,
@@ -1092,17 +954,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 8,
-    "points": -27,
-    "team_one_id": 246,
-    "team_two_id": 314,
-    "team_one_name": "Ross County",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": -2,
-    "points": 2,
+    "rank": 0,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.17999999999999994,
     "goalsConceded": -0.20999999999999996,
@@ -1116,8 +969,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -2,
-    "points": 9,
+    "rank": 1,
+    "points": -7,
     "cleanSheetPercentage": 5.270000000000003,
     "goals": -0.31000000000000005,
     "goalsConceded": 0.07999999999999996,
@@ -1131,8 +984,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -9,
-    "points": 68,
+    "rank": -1,
+    "points": 33,
     "cleanSheetPercentage": 15.79,
     "goals": 1.21,
     "goalsConceded": -0.56,
@@ -1146,23 +999,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -4,
-    "points": 17,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.58,
-    "redCards": -0.11,
-    "team_one_id": 314,
-    "team_two_id": 309,
-    "team_one_name": "Hearts",
-    "team_two_name": "Motherwell",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 4,
-    "points": -11,
+    "rank": -1,
+    "points": -9,
     "cleanSheetPercentage": -13.16,
     "goals": 0.019999999999999796,
     "goalsConceded": 0,
@@ -1176,8 +1014,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 6,
-    "points": -17,
+    "rank": 2,
+    "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.04999999999999993,
     "goalsConceded": 0.56,
@@ -1191,8 +1029,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 7,
-    "points": -46,
+    "rank": 4,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.47,
     "goalsConceded": 0.8699999999999999,
@@ -1205,8 +1043,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 1,
-    "points": 0,
+    "rank": 2,
+    "points": -8,
     "cleanSheetPercentage": -18.42,
     "goals": 0.2899999999999999,
     "goalsConceded": 0.09999999999999987,
@@ -1220,8 +1058,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -7,
-    "points": 17,
+    "rank": -1,
+    "points": 24,
     "cleanSheetPercentage": 21.049999999999997,
     "goals": 0.33999999999999997,
     "goalsConceded": -0.82,
@@ -1235,7 +1073,7 @@
     "matchOutcome": 0
   },
   {
-    "rank": -4,
+    "rank": -2,
     "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.16000000000000014,
@@ -1250,8 +1088,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 7,
-    "points": -62,
+    "rank": -1,
+    "points": -32,
     "cleanSheetPercentage": -18.42,
     "goals": -1.0199999999999998,
     "goalsConceded": 0.69,
@@ -1265,17 +1103,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 25,
-    "team_one_id": 62,
-    "team_two_id": 314,
-    "team_one_name": "Rangers",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
     "rank": 3,
-    "points": -11,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.020000000000000018,
     "goalsConceded": 0.030000000000000027,
@@ -1289,8 +1118,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -7,
-    "points": 22,
+    "rank": 1,
+    "points": 12,
     "cleanSheetPercentage": 10.530000000000001,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.32000000000000006,
@@ -1304,8 +1133,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -11,
-    "points": 72,
+    "rank": -2,
+    "points": 38,
     "cleanSheetPercentage": 31.58,
     "goals": 1.13,
     "goalsConceded": -0.98,
@@ -1319,17 +1148,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -12,
-    "team_one_id": 258,
-    "team_two_id": 314,
-    "team_one_name": "Livingston",
-    "team_two_name": "Hearts",
-    "matchOutcome": 1
-  },
-  {
-    "rank": -6,
-    "points": 13,
+    "rank": -2,
+    "points": 27,
     "cleanSheetPercentage": 23.68,
     "goals": 0.13000000000000012,
     "goalsConceded": -0.4999999999999999,
@@ -1343,8 +1163,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": -4,
+    "rank": 4,
+    "points": 0,
     "cleanSheetPercentage": -2.629999999999999,
     "goals": -0.08000000000000007,
     "goalsConceded": -0.24,
@@ -1358,8 +1178,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 4,
-    "points": -35,
+    "rank": 1,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.45,
     "goalsConceded": 0.8399999999999999,
@@ -1373,7 +1193,7 @@
   },
   {
     "rank": 2,
-    "points": -46,
+    "points": -21,
     "cleanSheetPercentage": -5.259999999999998,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.24,
@@ -1387,23 +1207,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -7,
-    "points": 23,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.66,
-    "redCards": -0.16,
-    "team_one_id": 314,
-    "team_two_id": 180,
-    "team_one_name": "Hearts",
-    "team_two_name": "Kilmarnock",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 3,
-    "points": -11,
+    "rank": -3,
+    "points": -1,
     "cleanSheetPercentage": 5.260000000000002,
     "goals": -0.27000000000000013,
     "goalsConceded": -0.09999999999999987,
@@ -1417,8 +1222,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 2,
-    "points": -7,
+    "rank": -1,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": 0.06000000000000005,
     "goalsConceded": 0.27,
@@ -1432,8 +1237,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 35,
+    "rank": -2,
+    "points": 39,
     "cleanSheetPercentage": 28.950000000000003,
     "goals": 1.16,
     "goalsConceded": -0.5800000000000001,
@@ -1447,7 +1252,7 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
+    "rank": -1,
     "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.029999999999999916,
@@ -1462,8 +1267,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 8,
-    "points": -66,
+    "rank": 3,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.44999999999999996,
@@ -1477,23 +1282,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -6,
-    "points": 23,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.84,
-    "redCards": -0.05,
-    "team_one_id": 314,
-    "team_two_id": 282,
-    "team_one_name": "Hearts",
-    "team_two_name": "Dundee United",
-    "matchOutcome": 1
-  },
-  {
-    "rank": 2,
-    "points": -2,
+    "rank": 3,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.1499999999999999,
     "goalsConceded": 0.4999999999999999,
@@ -1507,8 +1297,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 3,
-    "points": -6,
+    "rank": 4,
+    "points": -9,
     "cleanSheetPercentage": -15.79,
     "goals": 0.09999999999999987,
     "goalsConceded": -0.030000000000000027,
@@ -1522,8 +1312,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -10,
-    "points": 52,
+    "rank": -3,
+    "points": 63,
     "cleanSheetPercentage": 50,
     "goals": 1.5,
     "goalsConceded": -1.4,
@@ -1537,8 +1327,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 9,
+    "rank": 2,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.020000000000000018,
     "goalsConceded": -0.17999999999999994,
@@ -1552,8 +1342,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 2,
-    "points": -4,
+    "rank": 1,
+    "points": -5,
     "cleanSheetPercentage": -15.79,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.41999999999999993,
@@ -1567,8 +1357,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 4,
-    "points": -55,
+    "rank": 1,
+    "points": -14,
     "cleanSheetPercentage": -10.530000000000001,
     "goals": -0.7899999999999998,
     "goalsConceded": 0.16000000000000003,
@@ -1582,8 +1372,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -8,
-    "points": 22,
+    "rank": -1,
+    "points": 20,
     "cleanSheetPercentage": 28.950000000000003,
     "goals": -0.17999999999999994,
     "goalsConceded": -0.41999999999999993,
@@ -1597,8 +1387,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 2,
+    "rank": -4,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.14000000000000012,
     "goalsConceded": -0.24,
@@ -1612,8 +1402,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 6,
-    "points": -42,
+    "rank": 0,
+    "points": -57,
     "cleanSheetPercentage": -36.84,
     "goals": -1.39,
     "goalsConceded": 1.1099999999999999,
@@ -1626,17 +1416,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 5,
-    "points": -21,
-    "team_one_id": 734,
-    "team_two_id": 314,
-    "team_one_name": "St. Johnstone",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 9,
-    "points": -26,
+    "rank": 0,
+    "points": -17,
     "cleanSheetPercentage": -26.32,
     "goals": -0.029999999999999916,
     "goalsConceded": 0.74,
@@ -1650,23 +1431,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -1,
-    "points": 10,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.55,
-    "redCards": -0.03,
-    "team_one_id": 314,
-    "team_two_id": 66,
-    "team_one_name": "Hearts",
-    "team_two_name": "Hibernian",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -5,
-    "points": 13,
+    "rank": -3,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.15999999999999992,
     "goalsConceded": -0.24,
@@ -1680,8 +1446,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 1,
-    "points": -5,
+    "rank": -5,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": -0.08000000000000007,
     "goalsConceded": 0.030000000000000027,
@@ -1695,8 +1461,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -1,
-    "points": 20,
+    "rank": 1,
+    "points": -25,
     "cleanSheetPercentage": -18.42,
     "goals": -0.3700000000000001,
     "goalsConceded": 0.42,
@@ -1709,8 +1475,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 1,
-    "points": -2,
+    "rank": -2,
+    "points": -1,
     "cleanSheetPercentage": 5.260000000000002,
     "goals": -0.10999999999999999,
     "goalsConceded": 0.1100000000000001,
@@ -1724,8 +1490,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -6,
-    "points": 20,
+    "rank": -1,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": 0,
     "goalsConceded": -0.20999999999999996,
@@ -1739,8 +1505,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -10,
-    "points": 68,
+    "rank": -3,
+    "points": 41,
     "cleanSheetPercentage": 34.21,
     "goals": 0.9199999999999999,
     "goalsConceded": -0.6599999999999999,
@@ -1754,8 +1520,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 8,
-    "points": -48,
+    "rank": 2,
+    "points": -58,
     "cleanSheetPercentage": -34.21,
     "goals": -1.58,
     "goalsConceded": 0.98,
@@ -1768,8 +1534,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -3,
-    "points": 7,
+    "rank": 2,
+    "points": 18,
     "cleanSheetPercentage": 7.890000000000001,
     "goals": 0.22999999999999998,
     "goalsConceded": -0.5299999999999999,
@@ -1783,8 +1549,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 5,
-    "points": -15,
+    "rank": -2,
+    "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.19000000000000006,
     "goalsConceded": 0.32000000000000006,
@@ -1798,23 +1564,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 10,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.63,
-    "redCards": -0.13,
-    "team_one_id": 314,
-    "team_two_id": 496,
-    "team_one_name": "Hearts",
-    "team_two_name": "St. Mirren",
-    "matchOutcome": 1
-  },
-  {
-    "rank": 5,
-    "points": -55,
+    "rank": 0,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -1.0799999999999998,
     "goalsConceded": 0.41999999999999993,
@@ -1828,23 +1579,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": 1,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.18,
-    "redCards": -0.08,
-    "team_one_id": 314,
-    "team_two_id": 273,
-    "team_one_name": "Hearts",
-    "team_two_name": "Aberdeen",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 5,
-    "points": -13,
+    "rank": 0,
+    "points": -19,
     "cleanSheetPercentage": -5.259999999999998,
     "goals": -0.42000000000000004,
     "goalsConceded": 0.4,
@@ -1858,8 +1594,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -9,
-    "points": 48,
+    "rank": -4,
+    "points": 66,
     "cleanSheetPercentage": 52.63,
     "goals": 1.29,
     "goalsConceded": -1.0799999999999998,
@@ -1873,8 +1609,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 4,
-    "points": -10,
+    "rank": 3,
+    "points": -6,
     "cleanSheetPercentage": -13.159999999999997,
     "goals": -0.10999999999999999,
     "goalsConceded": 0.29000000000000004,
@@ -1888,8 +1624,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 2,
-    "points": -9,
+    "rank": -1,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.16000000000000014,
     "goalsConceded": -0.20999999999999996,
@@ -1903,8 +1639,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 9,
-    "points": -68,
+    "rank": 1,
+    "points": -33,
     "cleanSheetPercentage": -15.79,
     "goals": -1.21,
     "goalsConceded": 0.56,
@@ -1918,8 +1654,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 2,
-    "points": -9,
+    "rank": -1,
+    "points": 7,
     "cleanSheetPercentage": -5.270000000000003,
     "goals": 0.31000000000000005,
     "goalsConceded": -0.07999999999999996,
@@ -1933,23 +1669,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 12,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.71,
-    "redCards": -0.03,
-    "team_one_id": 314,
-    "team_two_id": 258,
-    "team_one_name": "Hearts",
-    "team_two_name": "Livingston",
-    "matchOutcome": 1
-  },
-  {
-    "rank": 7,
-    "points": -46,
+    "rank": 4,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.47,
     "goalsConceded": 0.8699999999999999,
@@ -1962,8 +1683,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 4,
+    "rank": 1,
+    "points": -3,
     "cleanSheetPercentage": -2.6300000000000026,
     "goals": 0.20999999999999985,
     "goalsConceded": -0.32000000000000006,
@@ -1977,8 +1698,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 2,
-    "points": -7,
+    "rank": -1,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": 0.06000000000000005,
     "goalsConceded": 0.27,
@@ -1992,8 +1713,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -3,
-    "points": 9,
+    "rank": 2,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.020000000000000018,
     "goalsConceded": -0.17999999999999994,
@@ -2007,8 +1728,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 6,
-    "points": -57,
+    "rank": 4,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -0.9399999999999997,
     "goalsConceded": 0.6599999999999999,
@@ -2023,21 +1744,7 @@
   },
   {
     "rank": 2,
-    "points": -25,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -0.97,
-    "team_one_id": 314,
-    "team_two_id": 62,
-    "team_one_name": "Hearts",
-    "team_two_name": "Rangers",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 1,
-    "points": 0,
+    "points": -8,
     "cleanSheetPercentage": -18.42,
     "goals": 0.2899999999999999,
     "goalsConceded": 0.09999999999999987,
@@ -2051,8 +1758,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 4,
+    "rank": -4,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.24,
@@ -2066,8 +1773,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -7,
-    "points": 17,
+    "rank": -1,
+    "points": 24,
     "cleanSheetPercentage": 21.049999999999997,
     "goals": 0.33999999999999997,
     "goalsConceded": -0.82,
@@ -2081,8 +1788,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 5,
-    "points": -16,
+    "rank": -3,
+    "points": -11,
     "cleanSheetPercentage": -13.160000000000004,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.44999999999999996,
@@ -2096,23 +1803,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -6,
-    "points": 23,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.84,
-    "redCards": -0.05,
-    "team_one_id": 314,
-    "team_two_id": 282,
-    "team_one_name": "Hearts",
-    "team_two_name": "Dundee United",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 4,
-    "points": -11,
+    "rank": -1,
+    "points": -9,
     "cleanSheetPercentage": -13.16,
     "goals": 0.019999999999999796,
     "goalsConceded": 0,
@@ -2126,8 +1818,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 10,
-    "points": -52,
+    "rank": 3,
+    "points": -63,
     "cleanSheetPercentage": -50,
     "goals": -1.5,
     "goalsConceded": 1.4,
@@ -2140,8 +1832,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 8,
-    "points": -66,
+    "rank": 3,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.44999999999999996,
@@ -2155,8 +1847,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": 0,
+    "rank": -1,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.29000000000000004,
     "goalsConceded": 0.2599999999999999,
@@ -2171,7 +1863,7 @@
   },
   {
     "rank": 2,
-    "points": -46,
+    "points": -21,
     "cleanSheetPercentage": -5.259999999999998,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.24,
@@ -2185,8 +1877,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 2,
+    "rank": 2,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.1100000000000001,
@@ -2200,8 +1892,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -13,
+    "rank": 2,
+    "points": -27,
     "cleanSheetPercentage": -23.68,
     "goals": -0.13000000000000012,
     "goalsConceded": 0.4999999999999999,
@@ -2216,7 +1908,7 @@
   },
   {
     "rank": -5,
-    "points": 37,
+    "points": 57,
     "cleanSheetPercentage": 39.47,
     "goals": 1.3099999999999998,
     "goalsConceded": -1.0799999999999998,
@@ -2230,23 +1922,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -4,
-    "points": 17,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.58,
-    "redCards": -0.11,
-    "team_one_id": 314,
-    "team_two_id": 309,
-    "team_one_name": "Hearts",
-    "team_two_name": "Motherwell",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 6,
-    "points": -17,
+    "rank": 2,
+    "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.04999999999999993,
     "goalsConceded": 0.56,
@@ -2260,7 +1937,7 @@
     "matchOutcome": 0
   },
   {
-    "rank": 4,
+    "rank": 2,
     "points": -11,
     "cleanSheetPercentage": -15.790000000000003,
     "goals": 0.16000000000000014,
@@ -2275,23 +1952,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 3,
-    "points": -45,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -0.89,
-    "redCards": -0.08,
-    "team_one_id": 314,
-    "team_two_id": 53,
-    "team_one_name": "Hearts",
-    "team_two_name": "Celtic",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 3,
-    "points": -35,
+    "rank": 2,
+    "points": -39,
     "cleanSheetPercentage": -28.950000000000003,
     "goals": -1.16,
     "goalsConceded": 0.5800000000000001,
@@ -2304,8 +1966,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -3,
-    "points": 6,
+    "rank": -4,
+    "points": 9,
     "cleanSheetPercentage": 15.79,
     "goals": -0.09999999999999987,
     "goalsConceded": 0.030000000000000027,
@@ -2319,8 +1981,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -2,
-    "points": 4,
+    "rank": -1,
+    "points": 5,
     "cleanSheetPercentage": 15.79,
     "goals": -0.08000000000000007,
     "goalsConceded": -0.41999999999999993,
@@ -2335,7 +1997,7 @@
   },
   {
     "rank": -3,
-    "points": 11,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": 0.020000000000000018,
     "goalsConceded": -0.030000000000000027,
@@ -2349,8 +2011,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -7,
-    "points": 22,
+    "rank": 1,
+    "points": 12,
     "cleanSheetPercentage": 10.530000000000001,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.32000000000000006,
@@ -2364,17 +2026,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 5,
-    "points": -21,
-    "team_one_id": 734,
-    "team_two_id": 314,
-    "team_one_name": "St. Johnstone",
-    "team_two_name": "Hearts",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 2,
-    "points": -2,
+    "rank": 3,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.1499999999999999,
     "goalsConceded": 0.4999999999999999,
@@ -2388,8 +2041,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -9,
-    "points": 48,
+    "rank": -4,
+    "points": 66,
     "cleanSheetPercentage": 52.63,
     "goals": 1.29,
     "goalsConceded": -1.0799999999999998,
@@ -2403,8 +2056,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 4,
-    "points": -10,
+    "rank": 3,
+    "points": -6,
     "cleanSheetPercentage": -13.159999999999997,
     "goals": -0.10999999999999999,
     "goalsConceded": 0.29000000000000004,
@@ -2418,8 +2071,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 5,
-    "points": -55,
+    "rank": 0,
+    "points": -32,
     "cleanSheetPercentage": -21.05,
     "goals": -1.0799999999999998,
     "goalsConceded": 0.41999999999999993,
@@ -2434,22 +2087,7 @@
   },
   {
     "rank": 1,
-    "points": 1,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.18,
-    "redCards": -0.08,
-    "team_one_id": 314,
-    "team_two_id": 273,
-    "team_one_name": "Hearts",
-    "team_two_name": "Aberdeen",
-    "matchOutcome": 0
-  },
-  {
-    "rank": 4,
-    "points": -55,
+    "points": -14,
     "cleanSheetPercentage": -10.530000000000001,
     "goals": -0.7899999999999998,
     "goalsConceded": 0.16000000000000003,
@@ -2463,8 +2101,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -4,
-    "points": 13,
+    "rank": -1,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.13,
     "goalsConceded": -0.14000000000000012,
@@ -2478,8 +2116,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 2,
-    "points": -2,
+    "rank": 0,
+    "points": -9,
     "cleanSheetPercentage": -13.16,
     "goals": 0.17999999999999994,
     "goalsConceded": 0.20999999999999996,
@@ -2493,8 +2131,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -5,
-    "points": 15,
+    "rank": 2,
+    "points": 6,
     "cleanSheetPercentage": 10.529999999999998,
     "goals": 0.19000000000000006,
     "goalsConceded": -0.32000000000000006,
@@ -2508,8 +2146,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 6,
-    "points": -42,
+    "rank": 0,
+    "points": -57,
     "cleanSheetPercentage": -36.84,
     "goals": -1.39,
     "goalsConceded": 1.1099999999999999,
@@ -2522,8 +2160,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 3,
-    "points": -7,
+    "rank": -2,
+    "points": -18,
     "cleanSheetPercentage": -7.890000000000001,
     "goals": -0.22999999999999998,
     "goalsConceded": 0.5299999999999999,
@@ -2537,17 +2175,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 7,
-    "points": -23,
-    "team_one_id": 180,
-    "team_two_id": 314,
-    "team_one_name": "Kilmarnock",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 8,
-    "points": -48,
+    "rank": 2,
+    "points": -58,
     "cleanSheetPercentage": -34.21,
     "goals": -1.58,
     "goalsConceded": 0.98,
@@ -2560,8 +2189,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 11,
-    "points": -72,
+    "rank": 2,
+    "points": -38,
     "cleanSheetPercentage": -31.58,
     "goals": -1.13,
     "goalsConceded": 0.98,
@@ -2575,8 +2204,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -6,
-    "points": 20,
+    "rank": -1,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": 0,
     "goalsConceded": -0.20999999999999996,
@@ -2590,8 +2219,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 2,
+    "rank": -4,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.14000000000000012,
     "goalsConceded": -0.24,
@@ -2605,8 +2234,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -8,
-    "points": 22,
+    "rank": -1,
+    "points": 20,
     "cleanSheetPercentage": 28.950000000000003,
     "goals": -0.17999999999999994,
     "goalsConceded": -0.41999999999999993,
@@ -2620,8 +2249,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 1,
-    "points": -20,
+    "rank": -1,
+    "points": 25,
     "cleanSheetPercentage": 18.42,
     "goals": 0.3700000000000001,
     "goalsConceded": -0.42,
@@ -2635,8 +2264,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -5,
-    "points": 13,
+    "rank": 0,
+    "points": 19,
     "cleanSheetPercentage": 5.259999999999998,
     "goals": 0.42000000000000004,
     "goalsConceded": -0.4,
@@ -2650,23 +2279,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 10,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.63,
-    "redCards": -0.13,
-    "team_one_id": 314,
-    "team_two_id": 496,
-    "team_one_name": "Hearts",
-    "team_two_name": "St. Mirren",
-    "matchOutcome": 0
-  },
-  {
-    "rank": -1,
-    "points": 5,
+    "rank": 5,
+    "points": 0,
     "cleanSheetPercentage": -2.629999999999999,
     "goals": 0.08000000000000007,
     "goalsConceded": -0.030000000000000027,
@@ -2680,7 +2294,7 @@
     "matchOutcome": 0
   },
   {
-    "rank": -3,
+    "rank": 1,
     "points": 6,
     "cleanSheetPercentage": 10.529999999999998,
     "goals": 0.029999999999999916,
@@ -2695,17 +2309,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": -10,
-    "team_one_id": 66,
-    "team_two_id": 314,
-    "team_one_name": "Hibernian",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -10,
-    "points": 68,
+    "rank": -3,
+    "points": 41,
     "cleanSheetPercentage": 34.21,
     "goals": 0.9199999999999999,
     "goalsConceded": -0.6599999999999999,
@@ -2719,8 +2324,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 2,
-    "points": -9,
+    "rank": -1,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": -0.16000000000000014,
     "goalsConceded": -0.20999999999999996,
@@ -2735,7 +2340,7 @@
   },
   {
     "rank": 2,
-    "points": -6,
+    "points": -1,
     "cleanSheetPercentage": 2.6300000000000026,
     "goals": -0.19000000000000006,
     "goalsConceded": -0.1299999999999999,
@@ -2749,8 +2354,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -4,
-    "points": 35,
+    "rank": -1,
+    "points": 57,
     "cleanSheetPercentage": 39.47,
     "goals": 1.45,
     "goalsConceded": -0.8399999999999999,
@@ -2764,8 +2369,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 9,
-    "points": -26,
+    "rank": 0,
+    "points": -17,
     "cleanSheetPercentage": -26.32,
     "goals": -0.029999999999999916,
     "goalsConceded": 0.74,
@@ -2779,8 +2384,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": -26,
+    "rank": 3,
+    "points": -46,
     "cleanSheetPercentage": -23.68,
     "goals": -1.47,
     "goalsConceded": 0.6599999999999999,
@@ -2793,8 +2398,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 7,
-    "points": -62,
+    "rank": -1,
+    "points": -32,
     "cleanSheetPercentage": -18.42,
     "goals": -1.0199999999999998,
     "goalsConceded": 0.69,
@@ -2808,8 +2413,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 3,
-    "points": -11,
+    "rank": -3,
+    "points": -1,
     "cleanSheetPercentage": 5.260000000000002,
     "goals": -0.27000000000000013,
     "goalsConceded": -0.09999999999999987,
@@ -2823,23 +2428,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -8,
-    "points": 27,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -2.16,
-    "redCards": -0.13,
-    "team_one_id": 314,
-    "team_two_id": 246,
-    "team_one_name": "Hearts",
-    "team_two_name": "Ross County",
-    "matchOutcome": 2
-  },
-  {
-    "rank": 4,
-    "points": -11,
+    "rank": 2,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.31000000000000005,
     "goalsConceded": 0.2899999999999999,
@@ -2853,8 +2443,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": -5,
-    "points": 13,
+    "rank": -3,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.15999999999999992,
     "goalsConceded": -0.24,
@@ -2868,8 +2458,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": 0,
+    "rank": -1,
+    "points": -18,
     "cleanSheetPercentage": -10.52,
     "goals": -0.29000000000000004,
     "goalsConceded": 0.2599999999999999,
@@ -2883,8 +2473,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 3,
-    "points": -6,
+    "rank": 4,
+    "points": -9,
     "cleanSheetPercentage": -15.79,
     "goals": 0.09999999999999987,
     "goalsConceded": -0.030000000000000027,
@@ -2898,8 +2488,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 5,
-    "points": -15,
+    "rank": -2,
+    "points": -6,
     "cleanSheetPercentage": -10.529999999999998,
     "goals": -0.19000000000000006,
     "goalsConceded": 0.32000000000000006,
@@ -2913,8 +2503,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 2,
+    "rank": 2,
+    "points": 1,
     "cleanSheetPercentage": -5.260000000000002,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.1100000000000001,
@@ -2929,16 +2519,7 @@
   },
   {
     "rank": -3,
-    "points": 45,
-    "team_one_id": 53,
-    "team_two_id": 314,
-    "team_one_name": "Celtic",
-    "team_two_name": "Hearts",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -1,
-    "points": 26,
+    "points": 46,
     "cleanSheetPercentage": 23.68,
     "goals": 1.47,
     "goalsConceded": -0.6599999999999999,
@@ -2952,8 +2533,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 20,
+    "rank": 1,
+    "points": -25,
     "cleanSheetPercentage": -18.42,
     "goals": -0.3700000000000001,
     "goalsConceded": 0.42,
@@ -2966,8 +2547,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 9,
+    "rank": 1,
+    "points": -7,
     "cleanSheetPercentage": 5.270000000000003,
     "goals": -0.31000000000000005,
     "goalsConceded": 0.07999999999999996,
@@ -2981,17 +2562,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 2,
-    "points": -10,
-    "team_one_id": 496,
-    "team_two_id": 314,
-    "team_one_name": "St. Mirren",
-    "team_two_name": "Hearts",
-    "matchOutcome": 1
-  },
-  {
-    "rank": -5,
-    "points": 55,
+    "rank": 0,
+    "points": 32,
     "cleanSheetPercentage": 21.05,
     "goals": 1.0799999999999998,
     "goalsConceded": -0.41999999999999993,
@@ -3005,23 +2577,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 1,
-    "points": 1,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.18,
-    "redCards": -0.08,
-    "team_one_id": 314,
-    "team_two_id": 273,
-    "team_one_name": "Hearts",
-    "team_two_name": "Aberdeen",
-    "matchOutcome": 2
-  },
-  {
-    "rank": -3,
-    "points": 35,
+    "rank": -2,
+    "points": 39,
     "cleanSheetPercentage": 28.950000000000003,
     "goals": 1.16,
     "goalsConceded": -0.5800000000000001,
@@ -3035,8 +2592,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -3,
-    "points": 9,
+    "rank": 2,
+    "points": 11,
     "cleanSheetPercentage": 15.790000000000003,
     "goals": -0.020000000000000018,
     "goalsConceded": -0.17999999999999994,
@@ -3050,8 +2607,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -4,
-    "points": 55,
+    "rank": -1,
+    "points": 14,
     "cleanSheetPercentage": 10.530000000000001,
     "goals": 0.7899999999999998,
     "goalsConceded": -0.16000000000000003,
@@ -3065,17 +2622,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 25,
-    "team_one_id": 62,
-    "team_two_id": 314,
-    "team_one_name": "Rangers",
-    "team_two_name": "Hearts",
-    "matchOutcome": 1
-  },
-  {
     "rank": 2,
-    "points": -46,
+    "points": -21,
     "cleanSheetPercentage": -5.259999999999998,
     "goals": -1.0999999999999999,
     "goalsConceded": 0.24,
@@ -3089,23 +2637,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 10,
-    "cleanSheetPercentage": null,
-    "goals": null,
-    "goalsConceded": null,
-    "possession": null,
-    "yellowCards": -1.55,
-    "redCards": -0.03,
-    "team_one_id": 314,
-    "team_two_id": 66,
-    "team_one_name": "Hearts",
-    "team_two_name": "Hibernian",
-    "matchOutcome": 1
-  },
-  {
-    "rank": 4,
-    "points": -35,
+    "rank": 1,
+    "points": -57,
     "cleanSheetPercentage": -39.47,
     "goals": -1.45,
     "goalsConceded": 0.8399999999999999,
@@ -3118,8 +2651,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -2,
-    "points": 4,
+    "rank": -1,
+    "points": 5,
     "cleanSheetPercentage": 15.79,
     "goals": -0.08000000000000007,
     "goalsConceded": -0.41999999999999993,
@@ -3133,8 +2666,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -4,
-    "points": 11,
+    "rank": 1,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.019999999999999796,
     "goalsConceded": 0,
@@ -3148,8 +2681,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -1,
-    "points": 4,
+    "rank": -4,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": 0.08000000000000007,
     "goalsConceded": 0.24,
@@ -3163,8 +2696,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -2,
-    "points": 2,
+    "rank": 0,
+    "points": 9,
     "cleanSheetPercentage": 13.16,
     "goals": -0.17999999999999994,
     "goalsConceded": -0.20999999999999996,
@@ -3178,8 +2711,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": 3,
-    "points": -11,
+    "rank": -3,
+    "points": -1,
     "cleanSheetPercentage": 5.260000000000002,
     "goals": -0.27000000000000013,
     "goalsConceded": -0.09999999999999987,
@@ -3193,8 +2726,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": -4,
-    "points": 10,
+    "rank": -3,
+    "points": 6,
     "cleanSheetPercentage": 13.159999999999997,
     "goals": 0.10999999999999999,
     "goalsConceded": -0.29000000000000004,
@@ -3208,8 +2741,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -1,
-    "points": 0,
+    "rank": -2,
+    "points": 8,
     "cleanSheetPercentage": 18.42,
     "goals": -0.2899999999999999,
     "goalsConceded": -0.09999999999999987,
@@ -3223,8 +2756,8 @@
     "matchOutcome": 0
   },
   {
-    "rank": 1,
-    "points": -5,
+    "rank": -5,
+    "points": 0,
     "cleanSheetPercentage": 2.629999999999999,
     "goals": -0.08000000000000007,
     "goalsConceded": 0.030000000000000027,
@@ -3238,7 +2771,7 @@
     "matchOutcome": 1
   },
   {
-    "rank": -3,
+    "rank": 1,
     "points": 6,
     "cleanSheetPercentage": 10.529999999999998,
     "goals": 0.029999999999999916,
@@ -3253,8 +2786,8 @@
     "matchOutcome": 1
   },
   {
-    "rank": 1,
-    "points": -4,
+    "rank": -1,
+    "points": 3,
     "cleanSheetPercentage": 2.6300000000000026,
     "goals": -0.20999999999999985,
     "goalsConceded": 0.32000000000000006,
@@ -3269,7 +2802,7 @@
   },
   {
     "rank": -2,
-    "points": 6,
+    "points": 1,
     "cleanSheetPercentage": -2.6300000000000026,
     "goals": 0.19000000000000006,
     "goalsConceded": 0.1299999999999999,
@@ -3283,8 +2816,8 @@
     "matchOutcome": 2
   },
   {
-    "rank": -2,
-    "points": 9,
+    "rank": 1,
+    "points": 0,
     "cleanSheetPercentage": 0,
     "goals": 0.16000000000000014,
     "goalsConceded": 0.20999999999999996,

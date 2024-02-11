@@ -85,17 +85,28 @@ const fetchData = async (path) => {
 }; */
 
 const getTeamsWithStats = async () => {
-  const standingsArr = await fetchData(
+  const currSeasonStandings = (await fetchData(
     `standings/seasons/${CURR_SEASON_ID}?filters=standingLeagues:${LEAGUE_ID}`
-  );
+  )).filter(standing => standing.group_id);
+
+  const prevSeasonStandings = (await fetchData(
+    `standings/seasons/${PREV_SEASON_IDS[0]}?filters=standingLeagues:${LEAGUE_ID}`
+  )).filter(standing => standing.group_id);
 
   const teamStatsMap = new Map();
   await Promise.all(
-    standingsArr.map(async (standing) => {
+    currSeasonStandings.map(async (standing) => {
       const data = await fetchData(
         `teams/${standing.participant_id}?include=statistics.details&filters=teamStatisticSeasons:${PREV_SEASON_IDS[0]}`
       );
 
+      const prevSeasonStanding = prevSeasonStandings.find(prev => prev.participant_id === standing.participant_id)
+      // Some teams in the current season might not have stats in the previous season
+      if (!prevSeasonStanding) {
+        console.log(`skipping ${standing.participant_id}`)
+        return
+      }
+      console.log(prevSeasonStanding, standing.participant_id)
       let statistics = [];
       try {
         statistics = data.statistics[0].details;
@@ -124,8 +135,8 @@ const getTeamsWithStats = async () => {
       const features = {
         id: standing.participant_id,
         name: data.name,
-        rank: standing.position,
-        points: standing.points,
+        rank: prevSeasonStanding.position,
+        points: prevSeasonStanding.points,
         cleanSheetPercentage,
         goals,
         goalsConceded,
@@ -160,6 +171,11 @@ const getFixtures = async () => {
       const teamOneStats = teamStatsMap.get(teamOneData.participant_id);
       const teamTwoStats = teamStatsMap.get(teamTwoData.participant_id);
 
+      // Some stats from the previous season might be missing
+      if (!teamOneStats || !teamTwoStats) {
+        return undefined;
+      }
+      
       let matchOutcome;
       if (teamOneData.score.goals > teamTwoData.score.goals) {
         matchOutcome = 2;
