@@ -1,0 +1,66 @@
+[
+    {
+        "name": "points",
+        "type": "G",
+        "params": {
+            "a": 25,
+            "b": 90
+        }
+    },
+    {
+        "name": "goals",
+        "type": "G",
+        "params": {
+            "a": 0.8,
+            "b": 2
+        }
+    },
+    {
+        "name": "rank",
+        "type": "L",
+        "params": {
+            "a": 1,
+            "b": 13
+        }
+    },
+    {
+        "name": "cleanSheetPercentage",
+        "type": "G",
+        "params": {
+            "a": 5,
+            "b": 70
+        }
+    },
+    {
+        "name": "goalsConceded",
+        "type": "L",
+        "params": {
+            "a": 0.2,
+            "b": 1.8
+        }
+    },
+    {
+        "name": "possession",
+        "type": "G",
+        "params": {
+            "a": 40,
+            "b": 70
+        }
+    },
+    {
+        "name": "yellowCards",
+        "type": "L",
+        "params": {
+            "a": 0,
+            "b": 2
+        }
+    },
+    {
+        "name": "redCards",
+        "type": "L",
+        "params": {
+            "a": 0,
+            "b": 0.16
+        }
+    }
+]
