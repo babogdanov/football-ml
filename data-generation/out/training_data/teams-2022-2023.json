@@ -1,0 +1,142 @@
+[
+  {
+    "id": 258,
+    "name": "Livingston",
+    "rank": 2,
+    "points": 46,
+    "cleanSheetPercentage": 28.95,
+    "goals": 1.11,
+    "goalsConceded": 1.42,
+    "possession": 47.24,
+    "yellowCards": 1.71,
+    "redCards": 0.03
+  },
+  {
+    "id": 314,
+    "name": "Hearts",
+    "rank": 4,
+    "points": 48,
+    "yellowCards": 0,
+    "redCards": 0
+  },
+  {
+    "id": 180,
+    "name": "Kilmarnock",
+    "rank": 11,
+    "points": 31,
+    "cleanSheetPercentage": 15.79,
+    "goals": 1.13,
+    "goalsConceded": 1.42,
+    "possession": 46.37,
+    "yellowCards": 1.66,
+    "redCards": 0.16
+  },
+  {
+    "id": 734,
+    "name": "St. Johnstone",
+    "rank": 9,
+    "points": 33,
+    "cleanSheetPercentage": 28.95,
+    "goals": 0.95,
+    "goalsConceded": 1.21,
+    "possession": 44.82,
+    "yellowCards": 1.63,
+    "redCards": 0.13
+  },
+  {
+    "id": 496,
+    "name": "St. Mirren",
+    "rank": 6,
+    "points": 46,
+    "cleanSheetPercentage": 28.95,
+    "goals": 0.97,
+    "goalsConceded": 1.18,
+    "possession": 48.24,
+    "yellowCards": 1.63,
+    "redCards": 0.13
+  },
+  {
+    "id": 53,
+    "name": "Celtic",
+    "rank": 1,
+    "points": 99,
+    "cleanSheetPercentage": 50,
+    "goals": 2.05,
+    "goalsConceded": 0.76,
+    "possession": 66.32,
+    "yellowCards": 0.89,
+    "redCards": 0.08
+  },
+  {
+    "id": 273,
+    "name": "Aberdeen",
+    "rank": 3,
+    "points": 53,
+    "cleanSheetPercentage": 44.74,
+    "goals": 0.95,
+    "goalsConceded": 1,
+    "possession": 49.53,
+    "yellowCards": 1.18,
+    "redCards": 0.08
+  },
+  {
+    "id": 282,
+    "name": "Dundee United",
+    "rank": 10,
+    "points": 31,
+    "cleanSheetPercentage": 34.21,
+    "goals": 0.84,
+    "goalsConceded": 1.32,
+    "possession": 47.13,
+    "yellowCards": 1.84,
+    "redCards": 0.05
+  },
+  {
+    "id": 309,
+    "name": "Motherwell",
+    "rank": 8,
+    "points": 37,
+    "cleanSheetPercentage": 31.58,
+    "goals": 1.03,
+    "goalsConceded": 1.45,
+    "possession": 45.79,
+    "yellowCards": 1.58,
+    "redCards": 0.11
+  },
+  {
+    "id": 62,
+    "name": "Rangers",
+    "rank": 2,
+    "points": 92,
+    "cleanSheetPercentage": 68.42,
+    "goals": 2.42,
+    "goalsConceded": 0.34,
+    "possession": 64.13,
+    "yellowCards": 0.97,
+    "redCards": 0
+  },
+  {
+    "id": 246,
+    "name": "Ross County",
+    "rank": 12,
+    "points": 27,
+    "cleanSheetPercentage": 18.42,
+    "goals": 0.92,
+    "goalsConceded": 1.74,
+    "possession": 47.87,
+    "yellowCards": 2.16,
+    "redCards": 0.13
+  },
+  {
+    "id": 66,
+    "name": "Hibernian",
+    "rank": 5,
+    "points": 52,
+    "cleanSheetPercentage": 39.47,
+    "goals": 1.26,
+    "goalsConceded": 0.92,
+    "possession": 48.97,
+    "yellowCards": 1.55,
+    "redCards": 0.03
+  }
+]
