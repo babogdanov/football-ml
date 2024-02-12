@@ -1,0 +1,42 @@
+[
+    {
+        "name": "points",
+        "type": "G",
+        "params": {
+            "a": 0,
+            "b": 30
+        }
+    },
+    {
+        "name": "goals",
+        "type": "G",
+        "params": {
+            "a": 0,
+            "b": 3
+        }
+    },
+    {
+        "name": "possession",
+        "type": "G",
+        "params": {
+            "a": -3,
+            "b": 30
+        }
+    },
+    {
+        "name": "yellowCards",
+        "type": "L",
+        "params": {
+            "a": -0.2,
+            "b": 10
+        }
+    },
+    {
+        "name": "redCards",
+        "type": "L",
+        "params": {
+            "a": -0.01,
+            "b": 0.1
+        }
+    }
+]

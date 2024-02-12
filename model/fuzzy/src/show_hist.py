@@ -12,6 +12,9 @@ while(True):
         print('No such column!')
         continue
     plt.hist(df[col].tolist())
+    plt.xlabel(col)
+    plt.ylabel("Occurences")
+
     plt.show() 
     
     

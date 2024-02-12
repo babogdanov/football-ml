@@ -28,8 +28,7 @@ features_train, features_test, target_train, target_test = train_test_split(
 # print(df.info())
 # Creating an XGBoost classifier
 model = xgb.XGBClassifier(
-    n_estimators=10000
-    #max_depth=3
+    max_depth=3
     #enable_categorical=True,
     #eval_metric='mlogloss',
     #use_label_encoder=False,
@@ -53,8 +52,8 @@ print("\nClassification Report:")
 print(classification_report(target_test, predictions,
       target_names=['Loss', 'Draw', 'Win']))
 
-#plot_tree(model)
-#plot_tree(model, num_trees=1)
+plot_tree(model)
+plot_tree(model, num_trees=1)
 
 plot_importance(model)
 pyplot.show()
